@@ -1,5 +1,20 @@
 # [Golang Web Development](https://youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx)
 
+## 📖 Project Description
+
+This project is a modern YouTube-inspired web application that allows users to explore, search, and watch videos through a clean and responsive interface. It is designed to deliver a smooth user experience while demonstrating modern web development practices and a well-structured project architecture.
+
+### ✨ Key Highlights
+
+* 🎥 Browse and watch videos
+* 🔍 Fast and intuitive search functionality
+* 📱 Fully responsive design for all devices
+* ⚡ Clean, modern, and user-friendly interface
+* 🚀 Optimized for performance and easy customization
+* 🛠️ Simple project structure for learning and development
+
+Whether you're using this project as a learning resource, a portfolio project, or a foundation for building a complete video-sharing platform, it provides a solid starting point for further development.
+
 
 [![Facebook-Page][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
